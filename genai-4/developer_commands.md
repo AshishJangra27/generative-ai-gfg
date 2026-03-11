@@ -1,7 +1,10 @@
+Ashish, here is the **updated README** with the sections you requested **removed**. It focuses only on **core Python developer terminal commands**.
+
+````markdown
 # Python Developer Terminal Commands Guide
 
 A practical guide to **important terminal commands for Python developers**.  
-These commands help with **running Python programs, managing virtual environments, installing packages, debugging, and inspecting environments**.
+These commands help with **running Python programs, managing virtual environments, and installing dependencies**.
 
 ---
 
@@ -237,123 +240,6 @@ This starts a simple local web server.
 
 ---
 
-# 7. Installing Development Tools
-
-### Install Development Packages
-
-```bash
-pip install ipython
-pip install jupyter
-pip install black
-pip install flake8
-```
-
----
-
-### Start Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
----
-
-# 8. Formatting and Linting
-
-### Format Code with Black
-
-```bash
-black .
-```
-
----
-
-### Lint Code with Flake8
-
-```bash
-flake8
-```
-
----
-
-# 9. Running Python Tests
-
-### Install Pytest
-
-```bash
-pip install pytest
-```
-
----
-
-### Run Tests
-
-```bash
-pytest
-```
-
-Run specific test file
-
-```bash
-pytest test_file.py
-```
-
----
-
-# 10. Debugging Python Programs
-
-### Run Python in Debug Mode
-
-```bash
-python -m pdb app.py
-```
-
-Common commands in debugger
-
-```
-n → next line
-c → continue
-q → quit
-```
-
----
-
-# 11. Environment Inspection
-
-### Show Python Path
-
-```bash
-python -c "import sys; print(sys.path)"
-```
-
----
-
-### Show Installed Packages with Versions
-
-```bash
-pip freeze
-```
-
----
-
-# 12. Helpful Productivity Commands
-
-### Clear Python Cache
-
-```bash
-find . -type d -name "__pycache__" -exec rm -r {} +
-```
-
----
-
-### Remove `.pyc` Files
-
-```bash
-find . -name "*.pyc" -delete
-```
-
----
-
 # Summary
 
 Important Python developer commands:
@@ -366,9 +252,7 @@ pip install
 pip list
 pip freeze
 pip install -r requirements.txt
-pytest
-black
-flake8
 ```
 
-Mastering these commands helps Python developers **manage environments, dependencies, testing, and debugging efficiently from the terminal**.
+Mastering these commands helps Python developers **manage environments and dependencies efficiently from the terminal**.
+````
