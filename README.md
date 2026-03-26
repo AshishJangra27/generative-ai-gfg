@@ -24,18 +24,19 @@
 
 # Projects Built During Program
 
-### Core Flagship Projects
 - AI Content Writer  
 - Bulk AI Content Creator (Multi-topic Article Generator)  
 - AI Chatbot  
 - DIY Agentic AI  
 - AI Question Tagging System  
-- Text2SQL  
+- Text2SQL
+- Local Chatbot with Ollama
+- RAG for Article Search
 
 ### Applied AI Projects
 - AI Resume-based Interview Assistant  
-- Resume Analyzer  
-- Local Chatbot with Ollama  
+- Resume Analyzer
+- Chatbot with RAG
 
 ---
 
