@@ -21,25 +21,28 @@
 | **13** | How LLMs are Trained | Explained GPT training, pretraining, fine-tuning, datasets, and evolution of modern LLM architectures. | <a href="https://excalidraw.com/#json=iaP-p0-3r_wS0DZKMcU3R,gDvOQDkJfSBLSTgXX4XJjw"><img src="https://img.shields.io/badge/Open-Excalidraw-6965DB?logo=excalidraw&logoColor=white"></a> |
 | **14** | Transfer Learning with HuggingFace | Covered model loading, preprocessing, transfer learning workflows, and pushing trained models to HuggingFace Hub. | <a href="https://colab.research.google.com/drive/1IFlLmBEXyB8oriRYHwnEMmr7_i3h9AmQ?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
 | **15** | Fine-tuning LLM with LoRA & Quantization | Fine-tuned Gemma 2B using LoRA adapters, quantization, and pushed optimized model to HuggingFace Hub. | <a href="https://colab.research.google.com/drive/1CHhwUYIXX6jUSHWkheK2AWgYp2xmqF1F?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
+| **16** | CrewAI & Agentic AI Workflows | Introduces CrewAI fundamentals: Agents, Tasks, and Crews to build collaborative agentic AI systems. | <a href="https://colab.research.google.com/drive/1iH0kViqut95JwbfB2gLCtNyWqaWxC6vu?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
+| **17** | AI Resume Parser & Gemma 4 Multimodal Agents | Developed an AI Resume Analyzer and Interviewer agentic system using CrewAI and multimodal open-source LLMs like Gemma 4. | <a href="https://colab.research.google.com/drive/1w_iB_f8vp_8MNBgxYPFWMhyOxrridIGL?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a><br><a href="https://colab.research.google.com/drive/146PSRswOMfximNELDM6lHq5Mj4-Cj9PZ?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
 
 ---
 
 # Projects Built During Program
 
-- AI Content Writer  
-- Bulk AI Content Creator (Multi-topic Article Generator)  
-- AI Chatbot  
-- DIY Agentic AI  
-- AI Question Tagging System  
-- Text2SQL  
-- Local Chatbot with Ollama  
-- RAG for Article Search  
+- AI Content Writer  
+- Bulk AI Content Creator (Multi-topic Article Generator)  
+- AI Chatbot  
+- DIY Agentic AI  
+- AI Question Tagging System  
+- Text2SQL  
+- Local Chatbot with Ollama  
+- RAG for Article Search  
+- **AI Resume Parser & Gemma 4 Multimodal Interview Assistant**  
 
 ### Applied AI Projects
 
-- AI Resume-based Interview Assistant  
-- Resume Analyzer  
-- Chatbot with RAG  
+- AI Resume-based Interview Assistant  
+- Resume Analyzer  
+- Chatbot with RAG  
 
 ---
 
@@ -47,10 +50,10 @@
 
 By the end of this program, learners:
 
-- Understand the complete **AI → Deep Learning → LLM → GenAI pipeline**  
-- Build **RAG systems from scratch**  
-- Create **agent-based systems**  
-- Deploy **real-world AI applications**  
-- Work with **open-weight models**  
-- Convert **natural language into SQL queries**  
+- Understand the complete **AI → Deep Learning → LLM → GenAI pipeline**  
+- Build **RAG systems from scratch**  
+- Create **multi-agent systems using CrewAI**  
+- Deploy **real-world AI applications**  
+- Work with **open-weight and multimodal models** (e.g., Gemma 4)  
+- Convert **natural language into SQL queries**  
 - Build **web-search integrated AI systems**
