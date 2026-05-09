@@ -1,0 +1,28 @@
+- AI vs ML vd DL
+- From AI to GenAI
+- DL Models (ANN, CNN)
+- NLP (RNN -Tranformers)
+- Transformers in Detail
+- LLMs (Gemini)
+- Ollama (llama,gemma)
+- Huggingface (different)
+- Prompting
+- RAG from Scratch
+- RAG
+- Embedding Models from huggingface
+- Vectorless RAG
+- Git
+- Docker
+- Cloudrun
+- FastAPI
+- Agentic AI from Scratch
+- MCP
+- LangX
+- CrewAI
+- CrewAI with Gemma
+- Quantization
+- LORA
+- Streamlit
+- Gradio
+- LLMOps, Guardrails
+- LLM as a Judge
