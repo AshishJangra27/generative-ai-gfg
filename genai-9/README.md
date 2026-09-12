@@ -19,6 +19,7 @@ LLM Finetunnine : https://colab.research.google.com/drive/1fDhJc1i7YNeQVAYPbrVQf
 
 LLM with Internet Search: https://colab.research.google.com/drive/1d41pqHa1W4ZFIUOfhODiEzwnimHnrEkc?usp=sharing
 
+RAG Fundamentals : https://colab.research.google.com/drive/1Ge2IaGGDa8QbsYyR9G_5Y6PTx3VZUkh0?usp=sharing
 
 
 excalidraw : https://excalidraw.com/#json=fXDlo5_g2RU17WmSbq4RR,sTcXi5aIggjhHvwNJbOD6Q
