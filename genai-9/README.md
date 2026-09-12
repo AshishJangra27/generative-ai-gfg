@@ -18,3 +18,7 @@ https://colab.research.google.com/drive/1uEczDMLAou_OHWA2-xDlIWppSata133l?usp=sh
 LLM Finetunnine : https://colab.research.google.com/drive/1fDhJc1i7YNeQVAYPbrVQfpm3lVozBTs2?usp=sharing
 
 LLM with Internet Search: https://colab.research.google.com/drive/1d41pqHa1W4ZFIUOfhODiEzwnimHnrEkc?usp=sharing
+
+
+
+excalidraw : https://excalidraw.com/#json=fXDlo5_g2RU17WmSbq4RR,sTcXi5aIggjhHvwNJbOD6Q
