@@ -21,5 +21,8 @@ LLM with Internet Search: https://colab.research.google.com/drive/1d41pqHa1W4ZFI
 
 RAG Fundamentals : https://colab.research.google.com/drive/1Ge2IaGGDa8QbsYyR9G_5Y6PTx3VZUkh0?usp=sharing
 
+GFG-RAG : https://colab.research.google.com/drive/1fcRDOGR0IRsS9Eu7d9NnbI5DhcpJXgqW?usp=sharing
 
 excalidraw : https://excalidraw.com/#json=fXDlo5_g2RU17WmSbq4RR,sTcXi5aIggjhHvwNJbOD6Q
+
+
